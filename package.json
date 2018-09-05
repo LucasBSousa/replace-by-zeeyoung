@@ -1,0 +1,12 @@
+{
+  "name": "replace-by-zee-young",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Lucas Bernardo <lucasbernardosousa@gmail.com>",
+  "description": "UI animation designed by Zee Young, found on dribbble.",
+  "license": "MIT",
+  "scripts": {
+      "start": "node ./app.js"
+  },
+  "repository": "https://github.com/LucasBSousa/replace-by-zeeyoung.git"
+}
